@@ -57,6 +57,6 @@ tests/          leakage, purging, metric and alignment tests
 data/market.csv daily BTC, gold and Brent, 2014-09 → 2026-11
 ```
 
-This started in 2025 as a course project built in notebooks. That version is still in the git history.
+This started in 2025 as a course project built in notebooks; that version is kept on the [`course-version`](https://github.com/kaang457/crypto_prediction/tree/course-version) branch.
 
 [MIT License](LICENSE)
