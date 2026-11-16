@@ -1,0 +1,7 @@
+services:
+  btcforecast:
+    build: .
+    image: btcforecast
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
