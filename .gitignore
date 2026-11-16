@@ -1,1 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
 env/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+
+# Backtest output that is regenerated on every run
+reports/*.csv
